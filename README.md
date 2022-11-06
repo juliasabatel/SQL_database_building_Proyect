@@ -1,4 +1,4 @@
-# SQL_database_building_Proyect
+# SQL_database_building_Proyecto
 
 Database project
 
