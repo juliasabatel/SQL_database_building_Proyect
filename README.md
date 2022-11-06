@@ -5,7 +5,7 @@ Database project
 This is the second project, the objective of which is the construction of a database. Starting from six CSV files we will start cleaning, exploring and structuring the information. 
 Python and SQL will be used.
 
-GOALS
+# GOALS
 
 🧹 Cleaning of the six databases.
 
@@ -15,7 +15,7 @@ GOALS
 
 ⚙️ Development of queries and new information added.
 
-STEP BY STEP
+ # STEP BY STEP
 
 🧽 Databases cleanup
 
