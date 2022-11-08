@@ -42,3 +42,16 @@ Once the process is done we move on to perform the queries.
 🌈 Performing the queries
 
 To complete the objectives we have performed ten queries.
+
+# QUERIES 
+1.  Ranking of the best comedy movies
+2.  Top 3 best customers
+3.  3 films with more than 3.5 as puntuation
+4.  longest films
+5.  5 films with less than 2 or equal as puntuation
+6.  Same name of 2 actors
+7.  Films behind the scenes
+8.  Top 10 longest movies
+9.  New temporary table creation
+10. Use subqueries to display all actors who appear in the film `Alone Trip`
+
